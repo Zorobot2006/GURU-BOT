@@ -583,11 +583,10 @@ import {
   │ *11.* News Menu
   │ *12.* Economy Menu
   │ *13.* Anime Menu
-  │ *14.* NSFW Menu
-  │ *15.* Tools Menu
-  │ *16.* AI Menu
-  │ *17.* Religion Menu
-  │ *18.* Plugin Menu
+  │ *14.* Tools Menu
+  │ *15.* AI Menu
+  │ *16.* Religion Menu
+  │ *17.* Plugin Menu
   ╰───────⳹
  ${readMore}` 
 ;
